@@ -3,7 +3,7 @@ import type { ReactNode } from "react";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "ValkyDownload – Descargador de YouTube y TikTok",,
+  title: "ValkyDownload – Descargador de YouTube y TikTok",
   description: "Descarga videos de YouTube y TikTok en MP4 o MP3 con 3 opciones de calidad.",
 };
 
