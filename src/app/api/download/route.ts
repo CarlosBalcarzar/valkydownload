@@ -8,7 +8,7 @@ import { isOutputFormat, isQualityKey } from "@/lib/presets";
 
 export const runtime = "nodejs";
 export const dynamic = "force-dynamic";
-export const maxDuration = 900;
+export const maxDuration = 300;
 
 const CONTENT_TYPES = { mp3: "audio/mpeg", mp4: "video/mp4" } as const;
 
